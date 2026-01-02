@@ -1,3 +1,9 @@
+import Footer from "./components/Footer";
+
 export default function App() {
-  return <main className=""></main>;
+  return (
+    <main>
+      <Footer />
+    </main>
+  );
 }
