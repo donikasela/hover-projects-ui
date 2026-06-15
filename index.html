@@ -1,15 +1,5 @@
 <!DOCTYPE html>
 <html lang="en" class="">
-  <script>
-    (function () {
-      var stored = localStorage.getItem("theme");
-      var prefersDark = window.matchMedia(
-        "(prefers-color-scheme: dark)"
-      ).matches;
-      var theme = stored || (prefersDark ? "dark" : "light");
-      document.documentElement.classList.add(theme);
-    })();
-  </script>
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
@@ -19,5 +9,6 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
+    <script></script>
   </body>
 </html>
