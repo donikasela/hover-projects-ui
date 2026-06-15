@@ -7,7 +7,7 @@ A portfolio project list UI with a cursor-follow image hover interaction. Each p
 ---
 
 
-https://github.com/user-attachments/assets/e913606b-a644-4358-b85b-2403ab3bcd08
+https://github.com/user-attachments/assets/662f4b55-9761-4d8f-a20e-4752683c5fc2
 
 
 ---
