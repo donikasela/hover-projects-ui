@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Vault",
+    "city": "San Francisco",
+    "date": "2024",
+    "imageUrl": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?w=800&q=80",
+    "alt": "Modern banking dashboard displayed on a laptop showing financial analytics and transactions"
+  },
+  {
+    "id": 2,
+    "title": "Atelier",
+    "city": "New York",
+    "date": "2024",
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+    "alt": "Premium e-commerce website showcasing luxury products on a clean modern interface"
+  },
+  {
+    "id": 3,
+    "title": "Cat Tracker",
+    "city": "Los Angeles",
+    "date": "2024",
+    "imageUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=800&q=80",
+    "alt": "Simple cat tracking app interface showing pet locations and activity updates"
+  },
+  {
+    "id": 4,
+    "title": "Frame",
+    "city": "London",
+    "date": "2024",
+    "imageUrl": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=800&q=80",
+    "alt": "Streaming platform interface featuring movie recommendations and entertainment content"
+  },
+  {
+    "id": 5,
+    "title": "Nomad",
+    "city": "Tokyo",
+    "date": "2024",
+    "imageUrl": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=800&q=80",
+    "alt": "Travel planning dashboard with maps, itineraries, and booking information"
+  }
+]
